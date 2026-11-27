@@ -12,11 +12,11 @@ A beginner-friendly educational website designed to help students learn essentia
 
 ## Git Commands Covered
 
-- git init
-- git add
-- git commit
-- git push
-- git status
+- `git init`
+- `git add`
+- `git commit`
+- `git push`
+- `git status`
 
 ## Technologies
 
@@ -29,6 +29,12 @@ A beginner-friendly educational website designed to help students learn essentia
 
 - [Stage 1 – Project Proposal](docs/Project-Proposal.pdf)
 - [Stage 2 – Project Documentation](docs/Project-Documentation.pdf)
+
+## Stage 3 – Wireframes
+
+- [View editable Figma wireframes](https://www.figma.com/design/NrQwtoFDjoiWEB137LSPiF/Git-Command-Learning-Hub-%E2%80%94-Wireframes?node-id=0-1)
+- **Figma URL:** https://www.figma.com/design/NrQwtoFDjoiWEB137LSPiF/Git-Command-Learning-Hub-%E2%80%94-Wireframes?node-id=0-1
+- The exported Stage 3 wireframe PDF will be linked here once uploaded to `docs/`.
 
 ## Student Details
 
